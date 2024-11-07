@@ -1,0 +1,3 @@
+[submodule "Shaders-Projects"]
+	path = Shaders-Projects
+	url = https://github.com/DanieleSoranzio/Shaders-Projects.git
